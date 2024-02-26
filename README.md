@@ -8,7 +8,7 @@ The objective of this project is to predict whether the Falcon 9 first stage wil
 
 ## Contents
 
-- Jupyter Notebook: Contains the code and analysis for predicting Falcon 9 first stage landings.
+- Notebooks: Contains the code and analysis for predicting Falcon 9 first stage landings.
 - Data: Data files used in the analysis.
 - README.md: Overview of the project and instructions.
 
