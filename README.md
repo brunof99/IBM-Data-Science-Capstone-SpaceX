@@ -24,7 +24,7 @@ To run the Jupyter Notebook containing the project code, make sure you have Jupy
 
 ## References
 
-- [IBM Data Science Professional Certificate](https://www.ibm.com/training/professional-certifications/data-science/)
+- [IBM Data Science Professional Certificate](https://www.ibm.com/training/badge/data-science-professional-certificate)
 - [SpaceX](https://www.spacex.com/)
 
 ## License
