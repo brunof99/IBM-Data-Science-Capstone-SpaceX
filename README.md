@@ -1,6 +1,6 @@
 # Falcon 9 First Stage Landing Prediction (IBM Data Science Capstone)
 
-This repository contains the Capstone project from the IBM Data Science Professional Certificate course. The project focuses on predicting the successful landing of the Falcon 9 first stage.
+This repository contains my final project made for 'IBM Data Science Professional Certificate' course. The project focuses on predicting the successful landing of the Falcon 9 first stage.
 
 ## Project Overview
 
